@@ -1,2 +1,13 @@
-O projeto tem como objetivo a criaÁ„o de um programa que leia valores de tens„o de um osciloscÛpio Keysight InfiniiVision 1000 X-Series de um filtro conhecido, e calcule a resposta em frequÍncia dele. 
-A motivaÁ„o para esse conceito veio das aulas ministradas pelas cadeiras de circuitos elÈtricos e sinais e sistemas lineares do terceiro ano do curso de TelecomunicaÁıes, e pela aplicabilidade em projetos de engenharia.
+# Descri√ß√£o
+
+## Objetivo
+O projeto tem como objetivo a cria√ß√£o de um programa que leia valores de tens√£o de um oscilosc√≥pio Keysight InfiniiVision 1000 X-Series de um filtro conhecido, e calcule a resposta em frequ√™ncia dele.
+
+## Motiva√ß√£o
+A motiva√ß√£o para esse conceito veio das aulas ministradas pelas cadeiras de circuitos el√©tricos e sinais e sistemas lineares do terceiro ano do curso de Telecomunica√ß√µes, e pela aplicabilidade em projetos de engenharia.
+
+# Tutorial
+
+O tutorial realizado foi o deste link, o v√≠deo ensina como fazer uma calculadora em Windows Forms C#.  
+
+Calculadora funcional resultante: 
