@@ -8,7 +8,7 @@ A motivação para esse conceito veio das aulas ministradas pelas cadeiras de ci
 
 # Tutorial
 
-O tutorial realizado foi o deste link, o vídeo ensina como fazer uma calculadora em Windows Forms C#.
+O tutorial realizado foi o deste [link](https://www.youtube.com/watch?v=Is1EHXFhEe4), o vídeo ensina como fazer uma calculadora em Windows Forms C#.
 ![calculadoraforms](https://user-images.githubusercontent.com/37377082/40875917-4abb9f6a-664f-11e8-8563-aab7e78dfc28.PNG)
 
 O esboço inicial do projeto
