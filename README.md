@@ -18,6 +18,9 @@ O esboço inicial do projeto
 O código foi feito em C# baseado em códigos já prontos, no exemplo que vem junto com o manual do osciloscópio e no código aplicativo THD do aluno Brasil.
 
 A aparência gráfica do programa ficou da seguinte forma:
+![imagemprojeto](https://user-images.githubusercontent.com/37377082/41824250-b2ec18e4-77e3-11e8-87df-af61351fb691.PNG)
+
+O código compila, no entanto, não pude verificar o funcionamento final do código no osciloscópio.
 
 
 # Instrução de Compilação
