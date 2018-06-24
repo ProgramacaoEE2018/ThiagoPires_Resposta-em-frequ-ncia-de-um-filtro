@@ -14,6 +14,12 @@ O tutorial realizado foi o deste [link](https://www.youtube.com/watch?v=Is1EHXFh
 O esboço inicial do projeto
 ![esboco](https://user-images.githubusercontent.com/37377082/40874940-a5b46da4-664d-11e8-99e4-ddc281e99070.PNG)
 
+# Desenvolvimento do Projeto
+O código foi feito em C# baseado em códigos já prontos, no exemplo que vem junto com o manual do osciloscópio e no código aplicativo THD do aluno Brasil.
+
+A aparência gráfica do programa ficou da seguinte forma:
+
+
 # Instrução de Compilação
 
 Para compilar o programa, o usuário deve possuir o Visual Studio e criar um novo projeto. Depois, deve copiar e colar o código do Form1.cs no projeto criado. Para que o programa compile, é necessário que seja instalado o IO Libraries Suite que pode ser baixado neste [link](https://www.keysight.com/pt/pd-1985909/io-libraries-suite?nid=-33330.977662.00&cc=BR&lc=por&cmpid=zzfindiolib). 
