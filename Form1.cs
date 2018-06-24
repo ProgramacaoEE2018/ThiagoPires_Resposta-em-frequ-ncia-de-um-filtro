@@ -100,8 +100,7 @@ namespace AppFiltro
 
         }
 
-        static byte[] Freq = new byte[10000000]; static byte[] Ganho = new byte[10000000]; static byte[] Fase = new byte[10000000];
-
+       
         //Configura o setup do gerador de funções
         private static void GerarOnda()
         {
